@@ -74,8 +74,8 @@ Project kick-off session, where you should get clear of what and why this projec
 
 - What is the objective of building this PowerBi dashboard?
 - In what terms the success of this project will be measured?
-- What will be the time dead-line of the project?
-- do the stakeholders expect a pre-view before the actual release?
+- What will be the time deadline for the project?
+- do the stakeholders expect a preview before the actual release?
 - What are all the hopes stakeholders have out of this project?
 - what are all the fears the stakeholders have in terms of building this dashboard?
 - Who will be using this dashboard and for what purpose?
@@ -158,7 +158,7 @@ Fact table: It will have the data about the transactions
 - Following Good practices of data modeling is a must. Refer to this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed the Snowfall data modeling method.
 
-<img src="#" class="center">
+<img src="https://github.com/shubh-vaishnav/Business_Insight_360/blob/master/resourse/Data_model.png" class="center">
 
 ### Dashboard designing
 
@@ -177,30 +177,35 @@ In-Home view, all the views button will be available. Users will land on a speci
 - Products
 - Support
 
-## Overall Report
+## Home Page
 
-
-## Info Page
+<img src="https://github.com/shubh-vaishnav/Business_Insight_360/blob/master/resourse/home.png" class="center">
 
 
 ## Finance View
 
+<img src="https://github.com/shubh-vaishnav/Business_Insight_360/blob/master/resourse/finance.png" class="center">
+
+
 ## Sales View
+
+<img src="https://github.com/shubh-vaishnav/Business_Insight_360/blob/master/resourse/sales.png" class="center">
 
 
 ## Marketing View
 
+<img src="https://github.com/shubh-vaishnav/Business_Insight_360/blob/master/resourse/markeing.png" class="center">
+
 
 ## Supply chain View
+
+<img src="https://github.com/shubh-vaishnav/Business_Insight_360/blob/master/resourse/supply%20chain.png" class="center">
 
 
 ## Executive View
 
+<img src="https://github.com/shubh-vaishnav/Business_Insight_360/blob/master/resourse/executive.png" class="center">
 
-## Products
-
-
-you can find the full report file here : [Report](https://github.com/  0/blob/main/Report/360.pbix)
 
 
 ## Project Outcome
