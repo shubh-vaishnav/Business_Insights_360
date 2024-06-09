@@ -4,7 +4,7 @@
 
 AtliQ Appliance has been growing rapidly in recent years, and they have decided to implement data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data-driven decisions. This project hopes to give answers to the questions of stakeholders in terms of all aspects like finance, sales, marketing, and supply chain.
 
-[Live Report Link](https://www.novypro.com/project/atliq-appliance-business-insights-360-power-bi)
+[Live Report Link](https://bit.ly/3KBU39g)
 
 ## Tech stacks
 
